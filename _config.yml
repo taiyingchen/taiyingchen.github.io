@@ -16,7 +16,7 @@ theme_settings:
     <p style="font-family:Noto Serif TC">理性做事</p>
     <p style="font-family:Noto Serif TC">感性待人</p>
      
-  header_text_feature_image: assets/img/cover3.jpg
+  header_text_feature_image: assets/img/cover.jpg
   footer_text: 
    # Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
