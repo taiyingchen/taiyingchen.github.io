@@ -23,6 +23,13 @@ layout: default
           {{ post.date | date: "%B %-d, %Y" }}
         </p>
       </header>
+      {% if post.feature-img %}
+      <div class="post-img">
+          <a aria-label="{{ post.title }}" href="{{ post.url | relative_url }}">
+              <img alt="{{ post.title }}" src="{{ site.baseurl }}/{{ post.feature-img }}">
+          </a>
+      </div>
+      {% endif %}
       <div class="excerpt">
         {{ post.excerpt }}
         <a class="button" href="{{ post.url | relative_url }}">
