@@ -2,11 +2,16 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/sample_feature_img_2.png"
+feature-img: "assets/img/cover.jpg"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Tai-Ying Chen (陳代穎) is currently a master student in the department of Computer Science and Information Engineering in National Taiwan University (NTU).
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+His interest included but not limited to Natural Language Processing (NLP), Text Mining, Machine Learning and Web development.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+His goal is to develop applications which can literally make the world a little bit better.
+
+## Education
+
+- Master of Science in Computer Science @ National Taiwan University
+- Bachelor in Chemical Engineering @ National Cheng Kung University
