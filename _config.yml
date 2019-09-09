@@ -22,18 +22,18 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "taiying.tychen@gmail.com" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
-  facebook: "dying.chen1020"
+  facebook: "taiying.tychen"
   flickr:
   gitlab:
   github: "taiyingchen"
   gitter:
   google_plus:
   instagram: "dying1020"
-  linkedin: "https://www.linkedin.com/in/%E4%BB%A3%E7%A9%8E-%E9%99%B3-bb936b10b/" # Full URL
+  linkedin: "https://www.linkedin.com/in/taiyingchen/" # Full URL
   pinterest:
   reddit:
   soundcloud:
