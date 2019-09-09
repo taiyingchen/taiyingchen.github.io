@@ -6,7 +6,6 @@ feature-img: "assets/img/cover.jpg"
 ---
 
 Tai-Ying Chen (陳代穎) is currently studying [Computer Science at University University of Illinois at Urbana-Champaign](https://cs.illinois.edu/).
-
 His interest included but not limited to Natural Language Processing (NLP), Text Mining, Machine Learning and Web development.
 His goal is to develop applications which can literally make the world a little bit better.
 
