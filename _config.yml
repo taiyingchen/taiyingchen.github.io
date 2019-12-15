@@ -5,8 +5,8 @@ url: "https://taiyingchen.com"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Taiying
-  avatar: 🥱
+  title: 🥱Taiying
+  avatar: 
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
