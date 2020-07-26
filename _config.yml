@@ -5,7 +5,7 @@ url: "https://taiyingchen.com"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: 🥱Taiying
+  title: TYC
   avatar: 
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -13,8 +13,8 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-    <p style="font-family:Noto Serif TC">理性做事</p>
-    <p style="font-family:Noto Serif TC">感性待人</p>
+    <p style="font-family:Noto Serif TC">該寫什麼</p>
+    <p style="font-family:Noto Serif TC">還想不到</p>
      
   header_text_feature_image: assets/img/cover.jpg
   footer_text: 
