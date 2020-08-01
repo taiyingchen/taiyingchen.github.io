@@ -13,8 +13,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-    <p style="font-family:Noto Serif TC">該寫什麼</p>
-    <p style="font-family:Noto Serif TC">還想不到</p>
+    <p style="font-family:Indie Flower">It's not a Bug<br>It's a Feature</p>
      
   header_text_feature_image: assets/img/cover.jpg
   footer_text: 
@@ -64,7 +63,7 @@ theme_settings:
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "Noto+Serif+TC"
+  google_fonts: "Indie+Flower"
 
   # Post navigation
   post_navigation: false
