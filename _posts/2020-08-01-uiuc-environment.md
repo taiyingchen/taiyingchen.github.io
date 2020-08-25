@@ -27,7 +27,7 @@ UIUC 橫跨 Urbana 和 Champaign 兩個城市，哪邊是哪個城市我永遠�
 
 除此之外，學校也是有名的 party school，四處可見掛著希臘字母的 frat house。同學也時常會在家中舉辦 party，這也是我在 UIUC 最懷念的回憶，會在社交娛樂篇詳述。Green Street 上開的許多酒吧也是學生消遣的場所，當然不能錯過 Murphy 的 Karaoke night。想要運動的話學校有兩個運動中心，靠北邊的是小而巧的 CRCE（Sir-See），南邊的則是有各種設施的 ARC。
 
-![]({{ site.baseurl }}/assets/img/R0002477.jpeg)
+![]({{ site.baseurl }}/assets/img/R0002478.jpeg)
 
 最後，學校不論是軟體還是硬體的設施都很齊全。以我自身經驗，工學院自己架了一個 GitLab，許多課的作業都是要繳交到 GitLab 上然後用 Autograder 改作業。有些課也會幫你開好 Virtual Machine（VM），讓同學能在同個環境下跑程式。我記得每個學號也能連到學校的 Linux 主機，有幾次作業要用到 MATLAB 便是直接用瀏覽器連到學校主機上寫作業。這樣的基礎設施讓學生能與業界更好地接軌，在學期間便能學會職場上必要的一些技能（例如 Git、Linux）。
 
