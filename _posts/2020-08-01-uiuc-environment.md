@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UIUC - 環境設施
+title: 在 UIUC 交換的日子 - 環境設施
 feature-img: "assets/img/R0002364.jpeg"
 ---
 
@@ -29,7 +29,7 @@ UIUC 橫跨 Urbana 和 Champaign 兩個城市，哪邊是哪個城市我永遠�
 
 ![]({{ site.baseurl }}/assets/img/R0002478.jpeg)
 
-最後，學校不論是軟體還是硬體的設施都很齊全。以我自身經驗，工學院自己架了一個 GitLab，許多課的作業都是要繳交到 GitLab 上然後用 Autograder 改作業。有些課也會幫你開好 Virtual Machine（VM），讓同學能在同個環境下跑程式。我記得每個學號也能連到學校的 Linux 主機，有幾次作業要用到 MATLAB 便是直接用瀏覽器連到學校主機上寫作業。這樣的基礎設施讓學生能與業界更好地接軌，在學期間便能學會職場上必要的一些技能（例如 Git、Linux）。
+最後，學校不論是軟體還是硬體的設施都很齊全。以我自身經驗，工學院自己架了一個 GitLab，許多課的作業都是要繳交到 GitLab 上然後用 Autograder 改作業。有些課也會幫你開好 Virtual Machine，讓同學能在同個環境下跑程式。我記得每個學號也能連到學校的 Linux 主機，有幾次作業要用到 MATLAB 便是直接用瀏覽器連到學校主機上寫作業。這樣的基礎設施讓學生能與業界更好地接軌，在學期間便能學會職場上一些必要的技能（例如 Git、Linux）。
 
 下一篇，UIUC - 修課學習。
 
