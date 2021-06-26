@@ -92,10 +92,12 @@ https://github.com/taiyingchen/CS498HS
 
 ## CS434 - Mobile Computing & Application
 
-因為寒假的實習在寫 iOS App，選課時沒多想，以為這門課也是學寫一些手機 App，沒想到完全搞錯了。這門課事實上教的是更底層的應用，教了如計算和應用手機、Beacon 等行動裝置上感測器收集的資料。這門課最推薦的是教授，他教得非常清楚直觀，幾乎不用先備條件，甚至開學前幾週都還在幫大家複習線性代數、傅立葉轉換。他蠻強調他不在意成績，只在意大家有沒有真的學會，所以他也沒有急著要這學期上完哪些內容，寧可慢慢上到每個人都融會貫通。他還會記得每個同學的名字，非常親切，是可以衝著他修任何他開的課。除了基礎知識外，課程中也會穿插他的研究，包含和 Uber 合作的專利等。第一次作業是利用手機內三軸加速器的資料寫一個計步器。第二次作業則是給加速器、陀螺儀計算手機旋轉的方向，整體偏簡單。Project 原本計劃是在課堂上 Demo，改成遠端後就沒那麼有趣了。
+By Romit Roy Choudhury
+
+因為寒假的實習在寫 iOS App，選課時沒多想，以為這門課也是學寫一些手機 App，沒想到完全搞錯了。這門課事實上教的是更底層的應用，教了如何計算和應用手機、Beacon 等行動裝置上收集的資料。這門課最推薦的是教授，他教得非常清楚直觀，幾乎不用先備條件，甚至開學前幾週都還在幫大家複習線性代數、傅立葉轉換。他蠻強調他不在意成績，只在意大家有沒有真的學會，所以他也沒有急著要這學期上完哪些內容，寧可慢慢上到每個人都融會貫通。他還會記得每個同學的名字，非常親切，是可以衝著他修任何他開的課。除了基礎知識外，課程中也會讀相關的 paper 以及教授的研究，包含和 Uber 合作的專利等。第一次作業是利用手機內三軸加速器的資料寫一個計步器。第二次作業則是給加速器、陀螺儀計算手機旋轉的方向，整體偏簡單。Project 原本計劃是在課堂上 Demo，改成遠端後就沒那麼有趣了。
 
 ```
-成績
+成績 A
 教學 ⭐️⭐️⭐️⭐️⭐️
 作業 ⭐️⭐️⭐️
 職場 ⭐️⭐️
@@ -104,10 +106,12 @@ https://github.com/taiyingchen/CS498HS
 
 ## CS438 - Communication Networks
 
-我對網路基本零知識所以才選了這門課，教網路的基本概念像是 7 層 OSI Model、IP Addressing、Subnetting、CIDR、TCP vs UDP、DNS 等。工作日常就會處理 IP Routing、DNS Delegation，或是 Debug packet loss，所以這些知識對職場很有幫助。Project 是用 UDP 實作 TCP three-way handshake，和實作 Routing Algorithm，是用 C/C++ 實作，寫完會更熟悉但我自己覺得太底層了，職場上用不太到。因為疫情成績只分成過和沒過。
+By Robin Kravets
+
+我跟網路很不熟所以才選了這門課，教網路的基本概念像是 7 層 OSI Model、IP Addressing、Subnetting、CIDR、TCP vs UDP、DNS 等。工作日常就會處理 IP Routing、DNS Delegation，或是 trace packet loss，所以這些知識對職場很有幫助。教授教得中規中矩，如果以前修過網路相關的課就不需要修這門了。Project 是用 UDP 實作 TCP three-way handshake，和實作 Routing Algorithm，是用 C/C++ 實作，寫完會更熟悉但我自己覺得太底層了，職場上用不太到。因為疫情成績只分成過和沒過。
 
 ```
-成績
+成績 Pass
 教學 ⭐️⭐️⭐️
 作業 ⭐️⭐️
 職場 ⭐️⭐️⭐️⭐️
@@ -116,12 +120,15 @@ https://github.com/taiyingchen/CS498HS
 
 ## CS498 - Audio Computing Lab
 
+By Paris Smaragdis
 
+這門是我的愛課之一，整體而言，教授教得很好、助教人很好、作業很有趣。教如何處理語音訊號和實作許多常見的聲音效果器。
+因為是 Lab，整堂課非常著重實作。一個禮拜兩堂課，一堂是 lecture 教理論知識，另一堂 lab 則是大家帶電腦跟耳機去教室，然後把當週教的理論實作出來，教授跟助教會在現場開放問問題，教授會到你旁邊看你的 code、幫你 debug。這樣的教學方式其實效果蠻好的，很多觀念因為實作會更印象深刻。每個禮拜都會有 lab 上課時出的作業，然後隔一個禮拜要交，所以如果 delay 就會變成每個禮拜都在趕上禮拜的作業。作業是用 Python Jupyter Notebook，實作環境效果器、等化器、降噪、調整音高等等，記得都在做傅立葉轉換，在頻率空間處理訊號，然後再轉回時間空間。有次作業要實作浴室的環境 filter，還要抱著電腦到浴室錄音。
 
 https://github.com/taiyingchen/CS498PS
 
 ```
-成績
+成績 A+
 教學 ⭐️⭐️⭐️⭐️⭐️
 作業 ⭐️⭐️⭐️⭐️⭐️
 職場 ⭐️
@@ -132,14 +139,22 @@ https://github.com/taiyingchen/CS498PS
 
 By Hari Sundaram
 
+這門課延續上學期的 Computational Advertising，研究在資源限制下社群網路、資訊等如何影響每個人的 decision making。是一門研究導向的課程，要念一堆的 paper，課程安排是每組同學分配一篇 paper，然後由同學上台報告 paper，然後接著討論。可以學到很新、很深的知識和研究，但我自己沒那麼喜歡做研究，所以上到後面就興致缺缺了。有興趣可以參考下面的課程網站。
+
+https://courses.engr.illinois.edu/cs598hs/sp2020/
+
 ```
-成績
+成績 A+
 教學 ⭐️⭐️⭐️
 作業 ⭐️⭐️
 職場 ⭐️
 綜合 ⭐️⭐️
 ```
 
-![]({{ site.baseurl }}/assets/img/R0002350.jpeg)
-
 ## Conclusion
+
+諷刺的是，我覺得有趣的課在職場上幾乎用不到。我覺得除非應徵特定領域的軟體工程師，像是影像、訊號、機器學習之類，否則一個 SDE 的工作日常根本不會碰到矩陣、傅立葉轉換或是賽局理論，這些應該是 Data Scientist 或是 PhD 才需要煩惱的事。但不可否認，仍然能在這些課中練習獨立學習和實作的能力，間接增加職場的生存條件。要說最後悔沒修的課就是鼎鼎大名的 CS425 Distributed System，這門課應該對求職跟工作上超有幫助，聽修過的人說面試都被問這堂課的 project。聽說是修 4 學分的才要做 project，然後 project 才是這門課的重點，loading 可想而知。
+
+下一篇，UIUC - 課外。
+
+![]({{ site.baseurl }}/assets/img/R0002350.jpeg)
