@@ -4,7 +4,7 @@ title: 在 UIUC 交換的日子 - 課外
 feature-img: "assets/img/R0002364.jpeg"
 ---
 
-![]({{ site/baseurl }}/assets/img/R0002350.jpeg)
+![]({{ site.baseurl }}/assets/img/R0002350.jpeg)
 
 除了上課外，UIUC 也有相當多的課外活動，這篇介紹“非娛樂”的活動，分為研究、Hackathon、以及求職。
 
@@ -22,6 +22,6 @@ feature-img: "assets/img/R0002364.jpeg"
 
 學校提供豐富的求職資源，如果有身份簽證的疑問，可以去 ISSS (International Student and Scholar Services) 詢問，辦公室的人都非常親切，也可以拿著履歷到 Career Center 請他們過目和修改。求職大致分成春季和秋季，強烈建議利用秋季，不要期待春季。這跟大公司內部的制度有關，以 Amazon 為例，每個組會在 Q1 (第一季) 提出隔年的 project 計畫和 headcount，講白話就是，我們明年需要招募幾個人做哪些 project。Q2 會把這些計畫送給高層決定，Q3 這些 headcount 就會下來讓每個組知道隔年會多幾個人進來，這些 headcount 自然地會利用秋季校招填補。春季跟秋季的 Career Fair 我都有參加，只能說，我沒看到一家大公司出現在春季。秋季會在開學沒多久的九月舉辦，除了院級的 Engineering Career Fair，CS 也舉辦了自己系上的 Career Fair，而且蠻多大公司像是 Google、Uber 只來 CS 系上招募，Facebook 還包了一間教室教學生怎麼考白板題。除此之外，這段時間也有公司會自己來學校招人，像是 Apple、Twitter。
 
-![]({{ site/baseurl }}/assets/img/IMG_4429.jpg)
+![]({{ site.baseurl }}/assets/img/IMG_4429.jpg)
 
 下一篇，也是這個系列最後一篇，UIUC - 娛樂。
