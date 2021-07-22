@@ -10,7 +10,7 @@ feature-img: "assets/img/R0002364.jpeg"
 
 每堂課都各有優缺點，我會用教學品質、作業規劃、職場實用以及綜合推薦來評價這些課程，滿分是五顆⭐️。教學品質會因教授而異，所以我也紀錄當時授課教授的名字。作業規劃包含評分和目標描述是否清楚、寫起來有不有趣、有沒有 TA 和 Office hour 可以問等等。職場實用代表修完這門課後，對未來在職場上擔任一般軟體工程師（SDE）是否實用、有幫助。均為個人評價僅供參考。
 
-2019 Fall
+**2019 Fall**
 * CS412 - Introduction to Data Mining
 * CS418 - Interactive Computer Graphics
 * CS427 - Software Engineering I
@@ -82,7 +82,9 @@ https://github.com/taiyingchen/CS498HS
 綜合 ⭐️⭐️⭐️⭐️
 ```
 
-2020 Spring
+***
+
+**2020 Spring**
 * CS434 - Mobile Computing & Application
 * CS438 - Communication Networks
 * CS498 - Audio Computing Lab
