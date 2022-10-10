@@ -157,6 +157,6 @@ https://courses.engr.illinois.edu/cs598hs/sp2020/
 
 諷刺的是，我覺得有趣的課在職場上幾乎用不到。我覺得除非應徵特定領域的軟體工程師，像是影像、訊號、機器學習之類，否則一個 SDE 的工作日常根本不會碰到矩陣、傅立葉轉換或是賽局理論，這些應該是 Data Scientist 或是 PhD 才需要煩惱的事。但不可否認，仍然能在這些課中練習獨立學習和實作的能力，間接增加職場的生存條件。要說最後悔沒修的課就是大名鼎鼎的 CS425 Distributed System，這門課應該對求職跟工作上超有幫助，聽修過的人說面試都被問這堂課的 project，然後要修 4 學分才需要做 project，但 project 才是這門課的精華，loading 可想而知非常重。
 
-下一篇，UIUC - 課外。
+[下一篇，UIUC - 課外。]({{ site.baseurl }}/2020/08/29/uiuc-extracurricular-activities.html)
 
 ![]({{ site.baseurl }}/assets/img/R0002350.jpeg)

@@ -24,6 +24,6 @@ feature-img: "assets/img/R0002364.jpeg"
 
 ![]({{ site.baseurl }}/assets/img/IMG_4429.jpg)
 
-下一篇，也是這個系列最後一篇，UIUC - 娛樂。
+[下一篇，也是這個系列最後一篇，UIUC - 娛樂。]({{ site.baseurl }}/2021/06/26/uiuc-entertainments.html)
 
 ![]({{ site.baseurl }}/assets/img/R0002485.jpeg)

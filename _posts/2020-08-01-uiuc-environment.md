@@ -8,10 +8,10 @@ feature-img: "assets/img/R0002364.jpeg"
 
 在台大就讀研究所時有幸透過電資學院申請交換至美國伊利諾大學香檳分校（以下簡稱 UIUC），這個系列會紀錄在 UIUC 交換一學年後的心得，預計分成四篇：
 
-1. 環境
-2. 修課
-3. 課外
-4. 娛樂
+1. [環境]({{ site.baseurl }}/2020/08/22/uiuc-courses.html)
+2. [修課]({{ site.baseurl }}/2020/08/22/uiuc-courses.html)
+3. [課外]({{ site.baseurl }}/2020/08/29/uiuc-extracurricular-activities.html)
+4. [娛樂]({{ site.baseurl }}/2021/06/26/uiuc-entertainments.html)
 
 這篇會介紹 UIUC 的環境、風氣、設施。UIUC 位於美國中部伊利諾州，從芝加哥往南大約三小時的車程。大部分的學生會飛至芝加哥 ORD 機場後，從機場搭乘 Peoria Charter 到學校。
 
@@ -31,6 +31,6 @@ UIUC 橫跨 Urbana 和 Champaign 兩個城市，哪邊是哪個城市我永遠�
 
 最後，學校不論是軟體還是硬體的設施都很齊全。以我自身經驗，工學院自己架了一個 GitLab，許多課的作業都是要繳交到 GitLab 上然後用 Autograder 改作業。有些課也會幫你開好 Virtual Machine，讓同學能在同個環境下跑程式。我記得每個學號也能連到學校的 Linux 主機，有幾次作業要用到 MATLAB 便是直接用瀏覽器連到學校主機上寫作業。這樣的基礎設施讓學生能與業界更好地接軌，在學期間便能學會職場上一些必要的技能。
 
-下一篇，UIUC - 修課。
+[下一篇，UIUC - 修課。]({{ site.baseurl }}/2020/08/22/uiuc-courses.html)
 
 ![]({{ site.baseurl }}/assets/img/R0001067.jpeg)
