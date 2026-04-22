@@ -22,9 +22,9 @@ By Hanghang Tong
 
 修這門課原本是看到授課教授是 Jiawei Han，殊不知只是掛名，最後是他學生來上課。整體課程偏簡單，基本上是從頭開始教起，如果修過林軒田或李宏毅的機器學習，我覺得可以不用修這門課。但修完也是有些許收穫，像是 Pattern Recognition 就是過去沒有接觸的領域。教授上課講的滿清楚，只是說話偏慢，所以後來我都沒去教室上課，是用 2 倍數看完上課錄影。作業中規中矩，實作 Apriori、Decision Tree、Gaussian Mixture Model 等演算法，跑測資評分。有個蠻死的規定是不能用任何套件，導致要自己算反矩陣，也練習把作業包成套件。
 
-* https://github.com/taiyingchen/apriori
-* https://github.com/taiyingchen/classifier
-* https://github.com/taiyingchen/cluster
+* <https://github.com/taiyingchen/apriori>
+* <https://github.com/taiyingchen/classifier>
+* <https://github.com/taiyingchen/cluster>
 
 ```
 成績 A
@@ -40,7 +40,7 @@ By Eric Gene Shaffer
 
 這門課是上電腦圖學，我修之前幾乎沒有基礎，先備條件只有線性代數，可以說整學期都在計算矩陣。涵蓋圖形放大縮小、旋轉、反射、折射等等。教授有時候上課講一講會越來越小聲，像是喃喃自語，所以聽得有點痛苦。因為是早上九點的課，開始下雪之後就不太常去上課了...。作業非常有趣，是用 JavaScript 寫成網頁上的動畫，會用到 WebGL 和矩陣套件 [glMatrix](http://glmatrix.net/)。其中一個作業如下，要在視線移動、旋轉茶壺下，計算經由反射後茶壺上的每個像素。作業最後能當自己的 Portfolio。
 
-https://taiyingchen.com/CS418
+<https://taiyingchen.com/CS418>
 
 ![](https://taiyingchen.com/CS418/MP3/img/animation.gif)
 
@@ -72,7 +72,7 @@ By Hari Sundaram
 
 「當你上網時，廣告是如何出現在你的瀏覽器上？」這門課介紹了網路廣告的生態跟流程。會從賽局理論、競標開始介紹，因為網路上的廣告事實上是在你按下 Google 搜尋後的幾毫秒內經過競標後出現在你眼前的。接著介紹隱私、文字廣告、圖片廣告、推薦系統，幫你解惑「為什麼 Google、Facebook 都知道我想買 XYZ？」這門課有趣的地方是它包含了經濟學、數學、資訊科學、心理學，所以能從不同的角度切入。不同於填鴨式的教學，教授很常跟學生互動，讓你主動思考，很自然地把整堂課連貫起來。課程安排的很棒，可以看到廣告領域中的樹以及林。
 
-https://github.com/taiyingchen/CS498HS
+<https://github.com/taiyingchen/CS498HS>
 
 ```
 成績 A+
@@ -127,7 +127,7 @@ By Paris Smaragdis
 這門是我的愛課之一，整體而言，教授教得很好、助教人很好、作業很有趣。教如何處理語音訊號和實作許多常見的聲音效果器。
 因為是 Lab，整堂課非常著重實作。一個禮拜兩堂課，一堂是 lecture 教理論知識，另一堂 lab 則是大家帶電腦跟耳機去教室，然後把當週教的理論實作出來，教授跟助教會在現場開放問問題，教授會到你旁邊看你的 code、幫你 debug。這樣的教學方式其實效果蠻好的，很多觀念因為實作會更印象深刻。每個禮拜都會有 lab 上課時出的作業，然後隔一個禮拜要交，所以如果 delay 就會變成每個禮拜都在趕上禮拜的作業。作業是用 Python Jupyter Notebook，實作環境效果器、等化器、降噪、調整音高等等，記得都在做傅立葉轉換，在頻率空間處理訊號，然後再轉回時間空間。有次作業要實作浴室的環境 filter，還要抱著電腦到浴室錄音。
 
-https://github.com/taiyingchen/CS498PS
+<https://github.com/taiyingchen/CS498PS>
 
 ```
 成績 A+
@@ -143,7 +143,7 @@ By Hari Sundaram
 
 這門課延續上學期的 Computational Advertising，研究在資源限制下社群網路、資訊等如何影響每個人的 decision making。是一門研究導向的課程，要念一堆的 paper，課程安排是每組同學分配一篇 paper，然後由同學上台報告 paper，然後接著討論。可以學到很新、很深的知識和研究，但我自己沒那麼喜歡做研究，所以上到後面就興致缺缺了。有興趣可以參考下面的課程網站。
 
-https://courses.engr.illinois.edu/cs598hs/sp2020/
+<https://courses.engr.illinois.edu/cs598hs/sp2020/>
 
 ```
 成績 A+
